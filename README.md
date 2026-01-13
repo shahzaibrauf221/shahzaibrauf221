@@ -71,7 +71,7 @@ End-to-end ML deployment pipeline on AWS.
 
 ### 🐳 Microservices with Kubernetes
 Scalable application deployed with container orchestration.
-- **Tech:** Docker, Kubernetes, Helm
+- **Tech:** Docker, Kubernetes
 - **Features:** Multi-container app, auto-scaling, health checks
 
 ### 🔐 AWS Security Implementation
@@ -128,6 +128,7 @@ Web scraper with NLP analysis.
 - ✅ Deep Learning Specialization  
 - ✅ Cloud Technical Essentials
 - ✅ Machine Learning
+- ✅ Amazon Web Services certification
 
 ---
 
