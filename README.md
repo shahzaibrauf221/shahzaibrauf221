@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Final year **Computer Science** student at **FAST NUCES Islamabad** specializing in **Natural Language Processing (NLP)**, **Cloud Computing**, **DevOps**, and **Information Security**.
+Final year **Computer Science** student at **FAST NUCES Islamabad** specializing in **Natural Language Processing (NLP)**, **Cloud Computing**.
 
 - 🔭 Currently working on **NLP text summarization and cloud deployments**
 - 🌱 Learning **Kubernetes, AWS, and Transformer models**
