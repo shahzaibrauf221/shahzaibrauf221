@@ -143,13 +143,16 @@ Final year **Computer Science** student at **FAST-NUCES Islamabad** with hands-o
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-  ![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibrauf221&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibrauf221&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibrauf221&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibrauf221&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Shahzaib's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibrauf221&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahzaibrauf221&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibrauf221&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
@@ -217,3 +220,5 @@ A-Levels: 2 A*, 1 A | O-Levels: 4 A*, 4 A
   *Open to opportunities in ML Engineering and Cloud Computing!*
   
 </div>
+
+---
