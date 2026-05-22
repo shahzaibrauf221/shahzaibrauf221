@@ -16,7 +16,7 @@ Final year **Computer Science** student at **FAST-NUCES Islamabad** with hands-o
 - 🌱 Building ML models with **PyTorch** and deploying on **AWS with Kubernetes**
 - 🎯 2026 Goal: **ML Engineer** or **Cloud Engineer** role at top tech companies
 - 📍 Based in **Islamabad, Pakistan**
-- 🎓 **FAST-NUCES Islamabad** - CGPA: 3.2 - Expected Graduation: 2026
+- 🎓 **FAST-NUCES Islamabad** - CGPA: 3.4 - Expected Graduation: 2026
 
 ---
 
